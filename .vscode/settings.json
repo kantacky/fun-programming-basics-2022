@@ -1,9 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll": true
-  },
-  "[c]": {
-    "editor.defaultFormatter": "ms-vscode.cpptools"
-  }
-}
